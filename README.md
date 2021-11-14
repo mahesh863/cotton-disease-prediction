@@ -5,14 +5,14 @@
 
 ### Problem Statement
 
-Detect if a cotton plant and leaf has disease based on it's image.
+Detect if a cotton plant and leaf have disease based on its image.
 
 
 ### Model
 
-I have used transfer learning technique to complete the task.
+I have used the transfer learning technique to complete the task.
 
-1. I have used pretrained VGG-19 model.
+1. I have used a pre-trained VGG-19 model.
 2. A Flatten layer was added to and the output is fed to a Dense layer having 4 units for classification and "softmax" activation function.
 
 
@@ -20,9 +20,9 @@ I have used transfer learning technique to complete the task.
 
 The model has been trained for 7 epochs. 
 
-For training the loss started from 1.3 and ended at 0.18. The accuracy started from 61% and ended in 94%.
+For training, the loss started from 1.3 and ended at 0.18. The accuracy started from 61% and ended in 94%.
 
-For validation the loss started from 0.42 and ended at 0.19. The accuracy started from 80% and ended in 93%
+For validation, the loss started from 0.42 and ended at 0.19. The accuracy started from 80% and ended in 93%
 
 ##### Accuracy Graph
 
