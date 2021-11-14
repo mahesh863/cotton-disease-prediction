@@ -40,10 +40,8 @@ For validation the loss started from 0.42 and ended at 0.19. The accuracy starte
 ### Results
 
 
-<img src="https://github.com/mahesh863/cotton-disease-prediction/blob/main/images/diseased.png" width="500px">
+<img src="https://github.com/mahesh863/cotton-disease-prediction/blob/main/images/diseased.png" width="400px">
 
 
-<img src="https://github.com/mahesh863/cotton-disease-prediction/blob/main/images/fresh.png" width="500px">
-
-
+<img src="https://github.com/mahesh863/cotton-disease-prediction/blob/main/images/fresh.png" width="400px">
 
